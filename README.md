@@ -1,5 +1,5 @@
 # RCO2
-RouteCrEATeOnlineのデバッグ用
+RouteCrEATeOnlineのデバッグ用(2画面で開く)
 <br>
 https://nakaji-nandaina.github.io/RCO2/
 <br>
