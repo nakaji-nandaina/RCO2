@@ -12,4 +12,5 @@ https://nakaji-nandaina.github.io/RCO2/
 一度変更したカードは変更不可能になる
 
 使用させていただいているBGM
+<br>
 楽曲名「レモンタルトと僕の休日。」作者　のる様　https://dova-s.jp/bgm/play20618.html
