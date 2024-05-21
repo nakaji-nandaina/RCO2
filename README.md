@@ -10,3 +10,6 @@ https://nakaji-nandaina.github.io/RCO2/
 ②2枚のカードの位置を変更する
 <br>
 一度変更したカードは変更不可能になる
+
+使用させていただいているBGM
+楽曲名「レモンタルトと僕の休日。」作者　のる様　https://dova-s.jp/bgm/play20618.html
