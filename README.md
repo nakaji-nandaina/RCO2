@@ -14,3 +14,6 @@ https://nakaji-nandaina.github.io/RCO2/
 使用させていただいているBGM
 <br>
 楽曲名「レモンタルトと僕の休日。」作者　のる様　https://dova-s.jp/bgm/play20618.html
+<br>
+使用させていただいている効果音
+効果音ラボhttps://soundeffect-lab.info/sound/button/
